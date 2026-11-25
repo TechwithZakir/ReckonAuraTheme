@@ -8,6 +8,8 @@ lang: en
 
 # Reckon Aura Theme: a Desk theme for ERPNext 16
 
+![Banner](banner.svg)
+
 Reckon Aura Theme is the Desk theme for ERPNext 16 used to give Reckon products a consistent look and feel. A good ERP should be pleasant to use every day, and the theme is part of how [ReckonERP](https://app.reckon.tech) presents its workspaces.
 
 ## Detailed features
